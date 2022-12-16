@@ -1,0 +1,17 @@
+{
+    "amazon": {
+        "buyable": "#rcx-subscribe-submit-button-announce",
+        "price": "#price_inside_buybox",
+        "requests": false
+    },
+    "target": {
+        "buyable": "button.Button__ButtonWithStyles-sc-1a5r2pb-0.styles__StyledButton-sc-1f2lsll-0.ioXwkT.iIyhFg",
+        "price": "div.style__PriceFontSize-sc-17wlxvr-0.ceEMdT",
+        "requests": false
+    },
+    "walmart": {
+        "buyable": "div.prod-product-cta-add-to-cart.display-inline-block",
+        "price": "span.price-group",
+        "requests": false
+    }
+}
